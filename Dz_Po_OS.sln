@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dz_Po_OS", "Dz_Po_OS\Dz_Po_OS.csproj", "{64358BB4-5468-4378-B914-FDAF2481901F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64358BB4-5468-4378-B914-FDAF2481901F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64358BB4-5468-4378-B914-FDAF2481901F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64358BB4-5468-4378-B914-FDAF2481901F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64358BB4-5468-4378-B914-FDAF2481901F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8BC882D-0CAE-4E9A-A4DF-78440F5D0708}
+	EndGlobalSection
+EndGlobal
